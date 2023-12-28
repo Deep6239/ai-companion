@@ -52,13 +52,15 @@ This web application allows users to create and chat with AI-powered characters.
 Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the Repository:**
-   ```bash
+   
    git clone [https://github.com/Deep6239/ai-companion.git](https://github.com/Deep6239/ai-companion.git)
+   
    cd your-repo
 
 ## 1. Install Dependencies:
 
 **Copy code**
+
 npm install
 
 
@@ -69,7 +71,9 @@ Create a .env.local file and set the necessary environment variables.
 ## 3. Run the Application:
 
 **Copy code**
+
 npm run dev
+
 Access the application in your browser at http://localhost:3000.
 
 ## Dependencies
